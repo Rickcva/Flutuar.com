@@ -3,14 +3,15 @@
 <p align="center">
 Projeto feito como desafio feito pela rocketseat. <br/>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 <br>
 
 <p align="center">
   <img alt="Projeto Flutuar.com" src="./img/readme.svg" width="100%">
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 ## 🚀 Tecnologias
